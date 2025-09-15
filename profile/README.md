@@ -1,7 +1,7 @@
 # 동행
 
 <p align="center">
-  <img "./icon.png" alt="logo" width="180"/>
+  <img "profile/icon.png" alt="logo" width="180"/>
 </p>
 
 <p align="center">
